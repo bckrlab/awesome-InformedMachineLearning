@@ -4,11 +4,20 @@ An awesome collection of sources regarding Informed Machine Learning (IML)/Backg
 
 ## Overview, Taxonomy and Surveys
 
-| Year | Title                                                                                                  | Paper                                                                  |
-| ---- | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------- |
-| 2022 | A review of some techniques for inclusion of domain-knowledge into deep neural networks                | [Link](https://www.nature.com/articles/s41598-021-04590-0)             |
-| 2021 | Informed Machine Learning - A Taxonomy and Survey of Integrating Prior Knowledge into Learning Systems | [Link](https://ieeexplore.ieee.org/document/9429985/)                  |
-| 2020 | Integrating Machine Learning with Human Knowledge                                                      | [Link](https://linkinghub.elsevier.com/retrieve/pii/S2589004220308488) |
+| Year | Title                                                                                                                   | Paper                                                                  |
+| ---- | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| 2022 | A review of some techniques for inclusion of domain-knowledge into deep neural networks                                 | [Link](https://www.nature.com/articles/s41598-021-04590-0)             |
+| 2021 | Informed Machine Learning - A Taxonomy and Survey of Integrating Prior Knowledge into Learning Systems                  | [Link](https://ieeexplore.ieee.org/document/9429985/)                  |
+| 2020 | Integrating Machine Learning with Human Knowledge                                                                       | [Link](https://linkinghub.elsevier.com/retrieve/pii/S2589004220308488) |
+| 2024 | Medical-informed machine learning: integrating prior knowledge into medical decision systems                            | [Link](https://doi.org/10.1186/s12911-024-02582-4)                     |
+| 2024 | Physics-informed machine learning: A comprehensive review on applications in anomaly detection and condition monitoring | [Link](https://doi.org/10.1016/j.eswa.2024.124678)                     |
+
+## Datasets
+
+| Year | Title                                                                                                            | Link                                       |
+| ---- | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| 2021 | The BioGRID database: A comprehensive biomedical resource of curated protein, genetic, and chemical interactions | [Link](https://doi.org/10.1002/pro.3978)   |
+| 2020 | miRDB: an online database for prediction of functional microRNA targets                                          | [Link](https://doi.org/10.1093/nar/gkz757) |
 
 ## Tasks
 
